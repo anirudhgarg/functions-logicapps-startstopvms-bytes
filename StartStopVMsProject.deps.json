@@ -2817,14 +2817,14 @@
     "Microsoft.IdentityModel.Logging/1.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-QPMFfRVnRkCzGpEQz/YEPsbwUjAp5R1W2dpaXHlJJNA7fp9gV4m4TDKvvXhQnqdEL0a0luNrYFZrbz7NRI1rXQ==",
+      "sha512": "sha512-+J/lLWRYvXI3XF1lW+JTf8iLf8wWz4WCo/9BISE+znzO28cugQuCAtcYLuGp5XGlcwns2VzGU4mIAEjMiiVW+Q==",
       "path": "microsoft.identitymodel.logging/1.1.2",
       "hashPath": "microsoft.identitymodel.logging.1.1.2.nupkg.sha512"
     },
     "Microsoft.IdentityModel.Tokens/5.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-m7UP4iY/dWfVwDNNSVGvZV6r4PwflaK++sYQsTTGAMILYb5IJ4Z4rKJRCA0uKjo6jTcdWlQxyPsxoEVwjqPKqQ==",
+      "sha512": "sha512-xkoz4FgXxwfBliqc5t247wOsRqTC8Nyg0sp5KQABfFU/HO4L/Pn098ae6vQAhCCfuvSrZ5nGATHWdHGJNHSaIQ==",
       "path": "microsoft.identitymodel.tokens/5.1.2",
       "hashPath": "microsoft.identitymodel.tokens.5.1.2.nupkg.sha512"
     },
@@ -3314,7 +3314,7 @@
     "System.Runtime.Loader/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DHMaRn8D8YCK2GG2pw+UzNxn/OHVfaWx7OTLBD/hPegHZZgcZh3H6seWegrC4BYwsfuGrywIuT+MQs+rPqRLTQ==",
+      "sha512": "sha512-yv5kB/tandjJWWGLn7SA+e4ZU/QoVwUxI9FwaNr+qOoUnwLQLRdXR1pS8DyFhLd4nKM5IKfsye0AhPvrJAVGkw==",
       "path": "system.runtime.loader/4.3.0",
       "hashPath": "system.runtime.loader.4.3.0.nupkg.sha512"
     },
@@ -3461,7 +3461,7 @@
     "System.Threading.Overlapped/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-m3HQ2dPiX/DSTpf+yJt8B0c+SRvzfqAJKx+QDWi+VLhz8svLT23MVjEOHPF/KiSLeArKU/iHescrbLd3yVgyNg==",
+      "sha512": "sha512-JpukcZA7kre2gQ7GrhtvZu1xv/LVEG5HV9AajQ3XV7l36T6ICalw/llfkBHeK/eqo8UWpMNqkWGCzzlSuqE6pg==",
       "path": "system.threading.overlapped/4.3.0",
       "hashPath": "system.threading.overlapped.4.3.0.nupkg.sha512"
     },
