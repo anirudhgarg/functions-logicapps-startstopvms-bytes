@@ -3,16 +3,11 @@
   "configurationSource": "attributes",
   "bindings": [
     {
-      "type": "httpTrigger",
-      "methods": [
-        "get",
-        "post"
-      ],
-      "authLevel": "anonymous",
-      "name": "req"
+      "type": "orchestrationTrigger",
+      "name": "startStopVMContext"
     }
   ],
   "disabled": false,
   "scriptFile": "../bin/StartStopVMsProject.dll",
-  "entryPoint": "StartStopVMs.StartStopVMs.HttpStart"
+  "entryPoint": "StartStopVMs.StartStopVMs.Run"
 }
