@@ -1,0 +1,13 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.24",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "activityTrigger",
+      "name": "vmlist"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/StartStopVMsProject.dll",
+  "entryPoint": "StartStopVMs.StartStopVMs.StartStopVMList"
+}
